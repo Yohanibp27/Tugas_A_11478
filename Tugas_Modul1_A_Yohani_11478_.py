@@ -4,7 +4,8 @@ import numpy as np
 import pickle
 import os
 
-model_directory = r'D:\Modul 1'
+model_directory = r'D:\Tugas_A_11478'
+# model_directory = r'C:\Users\HP\Downloads\Semester 7\PMDPM - A\Pert - 2 Introduction to Machine Learning & MLOps with Python (Praktekl)\Tugas_A_11478'
 
 model_path = os.path.join(model_directory, 'rf_diabetes_model.pkl')
 
